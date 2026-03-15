@@ -1,71 +1,165 @@
-<h1 align="center">Hi 👋, I'm Mohamed Saraf</h1>
-<h3 align="center">Software Engineer | Java Developer | Full Stack Developer</h3>
+<h1 align="center">Mohamed Sabeelus Saraf</h1>
+<h3 align="center">Software Engineer | Java Microservices | Fintech Systems</h3>
+
+<p align="center">
+Backend Engineer building scalable fintech systems using Java, Spring Boot, and microservices architecture.
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Software Engineer from Sri Lanka
-- 🌱 Currently improving my **Full Stack Development**
-- ⚡ Experienced with **Java, Spring Boot, Next.js, Python**
-- 🚀 Interested in **Cloud, Microservices, and Scalable Systems**
+• Software Engineer with **3+ years experience in fintech systems**
 
----
+• Maintains **9+ production microservices**
 
-### 🛠 Tech Stack
+• APIs serving **50,000+ users**
 
-**Languages**
+• Experience integrating **banking systems and payment gateways**
 
-Java | Python | JavaScript | TypeScript
+• Strong background in **Java backend + full stack MERN**
 
-**Frontend**
+• Experience with **Docker, Jenkins, GCP, CI/CD**
 
-Next.js | React | Tailwind CSS | HTML | CSS
-
-**Backend**
-
-Spring Boot | REST APIs | Node.js
-
-**Database**
-
-MySQL | PostgreSQL | MongoDB
-
-**Tools**
-
-Docker | Git | Linux | Stripe API
+Location  
+Sri Lanka / UAE
 
 ---
 
-### 📂 Projects
+# ⚙️ Tech Stack
 
-#### 🔹 AI Resume Analyzer
-Python + Next.js project that analyzes resumes and provides feedback.
+## Languages
 
-#### 🔹 Stripe Transaction Dashboard
-Web system to visualize Stripe transactions in real time.
-
-#### 🔹 Portfolio Website
-Personal developer portfolio with projects and contact information.
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,sql"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## Backend
 
-![Saraf GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+• Spring Boot  
+• Spring Security  
+• Hibernate / JPA  
+• REST APIs  
+• Microservices Architecture
 
 ---
 
-### 📫 Connect With Me
+## Frontend
 
-LinkedIn  
-https://linkedin.com/in/YOUR_LINKEDIN
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+</p>
 
-GitHub  
-https://github.com/YOUR_USERNAME
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github"/>
+</p>
+
+• Jenkins  
+• GitHub Actions  
+• SonarQube  
+• CI/CD pipelines
+
+---
+
+# 🚀 Featured Projects
+
+### E-Shop MERN Platform
+React | Node | MongoDB | Stripe
+
+Full e-commerce platform including:
+
+• Product catalog  
+• Authentication system  
+• Shopping cart  
+• Stripe payments  
+• Admin dashboard
+
+---
+
+### IDRT Global Research Platform
+Next.js | PostgreSQL | Vercel
+
+Full research management platform with:
+
+• Admin dashboard  
+• Public portal  
+• Content management system
+
+Live:  
+https://www.idrtglobal.com/
+
+---
+
+### Event Management Platform
+
+Next.js 13 | MongoDB | Node.js | Tailwind | TypeScript
+
+Features:
+
+• Event booking  
+• Admin analytics dashboard  
+• Secure authentication
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarafmmms&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarafmmms&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sarafmmms&theme=tokyonight"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+• Microsoft Certified: Azure Fundamentals (AZ-900)  
+• Artificial Intelligence & Machine Learning – SLIIT  
+• Gen AI Learning Specialization – Coursera  
+• Web Development – University of Moratuwa  
+• Cybersecurity – Cisco Networking Academy
+
+---
+
+# 📫 Contact
 
 Email  
-your@email.com
+sabeelzaim@gmail.com
 
----
+LinkedIn  
+https://linkedin.com/in/sharaf-mohideen
 
-⭐ If you like my projects, feel free to star them!
+GitHub  
+https://github.com/sarafmmms
+
+Portfolio  
+https://sabeelussharaf.vercel.app
