@@ -1,60 +1,121 @@
 <h1 align="center">Mohamed Sabeelus Saraf</h1>
-<h3 align="center">Software Engineer | Java Microservices | Fintech Systems</h3>
+<h3 align="center">Software Engineer | Java Microservices | AI/ML Enthusiast</h3>
 
 <p align="center">
-Backend Engineer building scalable fintech systems using Java, Spring Boot, and microservices architecture.
+Backend Engineer with 3+ years building fintech microservices and APIs.
+Currently expanding into AI/ML, data science, and generative AI systems.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 • Software Engineer with **3+ years experience in fintech systems**
 
-• Maintains **9+ production microservices**
+• Maintained **9+ Spring Boot microservices**
 
-• APIs serving **50,000+ users**
+• APIs supporting **50,000+ mobile users**
 
-• Experience integrating **banking systems and payment gateways**
+• Experience integrating **banking systems & payment gateways**
 
-• Strong background in **Java backend + full stack MERN**
+• Strong background in **Java backend + MERN full-stack**
 
-• Experience with **Docker, Jenkins, GCP, CI/CD**
+• Currently transitioning into **AI/ML and Data Science**
 
-Location  
-Sri Lanka / UAE
+---
+
+# 🧠 AI / Machine Learning Work
+
+### Generative AI Question Generation System
+
+Tech Stack  
+Python • OpenAI API • LangChain • Flask • Next.js • Azure • RAG
+
+Features
+
+• Automated question generation from lecture materials  
+• Retrieval-Augmented Generation architecture  
+• Document chunking + embedding retrieval  
+• Context-aware LLM prompting  
+• LLM-based fact validation layer  
+• Microservice deployment with Flask API
+
+---
+
+### Machine Learning Projects
+
+**Fraud Detection Model**
+
+• Random Forest + XGBoost  
+• SMOTE for imbalanced datasets  
+• Feature engineering & model evaluation
+
+**Image Classification**
+
+• CNN model with TensorFlow/Keras  
+• Transfer learning for multi-class image classification
+
+**NLP Text Generation**
+
+• Transformer-based models  
+• Fine-tuned pre-trained language models
+
+ML workflow experience:
+
+• Data preprocessing  
+• Feature engineering  
+• Hyperparameter tuning  
+• Cross validation  
+• Model evaluation (Precision, Recall, F1)
 
 ---
 
 # ⚙️ Tech Stack
 
-## Languages
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql"/>
 </p>
 
 ---
 
-## Backend
+## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi"/>
 </p>
 
 • Spring Boot  
-• Spring Security  
 • Hibernate / JPA  
-• REST APIs  
+• REST API Design  
 • Microservices Architecture
 
 ---
 
-## Frontend
+## Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
 </p>
+
+---
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+Python Libraries
+
+• Scikit-learn  
+• Pandas  
+• NumPy  
+• Matplotlib  
+• Seaborn  
+• HuggingFace  
+• LangChain
 
 ---
 
@@ -72,49 +133,53 @@ Sri Lanka / UAE
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github"/>
 </p>
 
+Tools
+
 • Jenkins  
 • GitHub Actions  
 • SonarQube  
-• CI/CD pipelines
+• CI/CD pipelines  
+• Jupyter Notebook
 
 ---
 
 # 🚀 Featured Projects
 
-### E-Shop MERN Platform
-React | Node | MongoDB | Stripe
+### E-Commerce Platform (MERN)
 
-Full e-commerce platform including:
+React • Node • MongoDB • Stripe
+
+Features:
 
 • Product catalog  
-• Authentication system  
 • Shopping cart  
-• Stripe payments  
-• Admin dashboard
+• Secure authentication  
+• Stripe payment integration
 
 ---
 
 ### IDRT Global Research Platform
-Next.js | PostgreSQL | Vercel
 
-Full research management platform with:
-
-• Admin dashboard  
-• Public portal  
-• Content management system
+Next.js • PostgreSQL • Vercel
 
 Live:  
-https://www.idrtglobal.com/
+https://www.idrtglobal.com
+
+Features:
+
+• Admin dashboard  
+• Public research portal  
+• Content management system
 
 ---
 
 ### Event Management Platform
 
-Next.js 13 | MongoDB | Node.js | Tailwind | TypeScript
+Next.js 13 • Node.js • MongoDB • TypeScript
 
 Features:
 
-• Event booking  
+• Event booking system  
 • Admin analytics dashboard  
 • Secure authentication
 
@@ -140,13 +205,18 @@ Features:
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
 • Microsoft Certified: Azure Fundamentals (AZ-900)  
 • Artificial Intelligence & Machine Learning – SLIIT  
 • Gen AI Learning Specialization – Coursera  
 • Web Development – University of Moratuwa  
-• Cybersecurity – Cisco Networking Academy
+• Cybersecurity – Cisco Networking Academy  
+
+Currently pursuing:
+
+• Google Data Analytics Professional Certificate  
+• TensorFlow Developer Certificate
 
 ---
 
@@ -160,6 +230,3 @@ https://linkedin.com/in/sharaf-mohideen
 
 GitHub  
 https://github.com/sarafmmms
-
-Portfolio  
-https://sabeelussharaf.vercel.app
